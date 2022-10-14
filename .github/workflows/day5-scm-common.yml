@@ -14,7 +14,7 @@ on:
       - day5/apps/infrastructure/bicep/common/**
       - .github/workflows/day5-scm-common.yml
 
-  workflow_dispatch:
+  workflow_dispatch: 
 
 env:
   BICEP_FILE_NAME: "commonmain.bicep" 
