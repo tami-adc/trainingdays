@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  BICEP_FILE_NAME: "commonmain.bicep"
+  BICEP_FILE_NAME: "commonmain.bicep" 
 
 jobs:
   build:
