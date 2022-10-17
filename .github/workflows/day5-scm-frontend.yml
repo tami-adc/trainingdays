@@ -244,3 +244,5 @@ jobs:
           -d '$web' 
           --account-name ${{ steps.infrastructure.outputs.storageAccountName }} 
           -s ./scmfe
+
+          
